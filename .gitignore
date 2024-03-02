@@ -1,0 +1,8 @@
+# .gitignore
+
+# Node.js
+node_modules/
+
+# Dependency directories
+# Bu klasörleri kendi bağımlılıklarınız için özelleştirebilirsiniz
+# example_dependency/
