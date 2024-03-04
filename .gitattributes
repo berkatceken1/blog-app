@@ -1,0 +1,2 @@
+# dosyaların UNIX tarzında satır sonu karakterleri kullanması için aşağıdaki içeriği ekleyebilirsiniz
+.gitattributes text eol=lf
